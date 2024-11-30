@@ -1,0 +1,30 @@
+// media queries
+
+$breakpoints: (
+    "xs": 0, 
+    "sm": 480px, 
+    "md": 720px, 
+    "lg": 960px, 
+    "xl": 1200px,
+); 
+
+// meeting point
+@mixin xl {
+    @media (min-width: map-get($breakpoints, "xl")) {
+
+    }
+}
+
+// breaking points outside of the " above " 
+@mixin breakpoint($bp:0) {
+    @media (max-width:$bp) {
+        
+        @content;
+    }
+}
+
+// definitions -- 
+// min-max ( extra small and above ) 
+
+// @content ( in the seperate scss file ) 
+// @xs { background-color: red } 

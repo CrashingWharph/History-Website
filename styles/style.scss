@@ -1,0 +1,82 @@
+
+// sass --watch styles/style.scss css/style.css 
+
+// index page
+@use './homepage/carousel.scss';
+@use './homepage/gallery.scss';
+@use './homepage/catagory.scss';
+
+// other 
+    @use './other/content.scss';
+    @use './other/rome.scss';
+    @use './other/email.scss';
+
+// catagory page 
+  @use './catagory-page/main-catagory-structure.scss';
+  @use './catagory-page/main-catagory.scss';
+  
+// all pages
+   @use './all-pages/header.scss';
+   @use './all-pages/buttons.scss';
+   @use './all-pages/images.scss';
+   @use './all-pages/footer.scss';
+   @use './all-pages/font.scss';
+   @use './banner.scss';
+
+* {
+    margin: 0;
+    padding: auto;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    // font-family: 'poppins', sans-serif;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.2);
+    // position: relative;
+}
+
+// index
+.container {
+    max-width: 100%;
+    min-height: 230vh;
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.2);
+    // justify-content: center;
+    // align-items: center;
+}
+
+// catagory
+.c-container {
+    max-width: 100%;
+    height: 200vh;
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.2);
+    // justify-content: center;
+    // align-items: center;
+}
+
+// fall
+.f-container {
+    max-width: 100%;
+    height: 150vh;
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.2);
+    // justify-content: center;
+    // align-items: center;
+}
+
+// rome
+.r-container {
+    max-width: 100%;
+    height: 150vh;
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.2);
+    // justify-content: center;
+    // align-items: center;
+}
+
+// styles/index.scss to css/index.css.
+

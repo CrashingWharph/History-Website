@@ -1,0 +1,35 @@
+// banner that is kind of advert
+
+.banner {
+    width: 100%;
+    height: auto;
+    width: 100%;
+    padding: 30px 150px;
+    margin: 0px 0 0px 0;
+    display: flex;
+}
+
+.banner img {
+  width: auto;
+  height: 55vh;
+  margin: 0 60px 0 0 ;
+  display: flex;
+  cursor: pointer;
+}
+
+.banner-content {
+  width: 100%;
+  margin: 50px 0 0 0;
+}
+
+// ------------------------------  banner (homepage) ------------------------------ // 
+.banner {
+
+  p { 
+    margin: 15px 0 20px 0;
+    font-weight: 500;
+}
+}
+
+
+
