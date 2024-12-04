@@ -568,6 +568,7 @@ a {
   background-repeat: no-repeat;
   background-blend-mode: darken;
   height: 150px;
+  z-index: 1;
 }
 
 .logo img {
@@ -701,6 +702,7 @@ a {
 .footer-container {
   background-image: url("images/home/old-black-background-grunge-texture-dark.jpg");
   background-position: center;
+  z-index: 1;
 }
 
 .email-board img {
