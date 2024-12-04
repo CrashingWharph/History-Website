@@ -1,4 +1,4 @@
-# HistoricalCulture
+# History Site 
 A history site of the world
 
 # project preview
