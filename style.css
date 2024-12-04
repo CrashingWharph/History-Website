@@ -73,6 +73,7 @@
   box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 30px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
   background-position: center;
 }
+
 .gallery-container .gallery {
   width: 100%;
   height: 100vh;
@@ -83,11 +84,13 @@
   grid-row-gap: 0;
   grid-template-columns: auto auto auto;
 }
+
 .gallery-container .gallery-items {
   position: relative;
   width: 430px;
   height: auto;
 }
+
 .gallery-container .gallery-info {
   text-align: center;
   display: flex;
@@ -95,6 +98,7 @@
   width: 430px;
   padding: 5px;
 }
+
 .gallery-container .gallery-header {
   display: flex;
   justify-content: left;
@@ -102,6 +106,7 @@
   color: orange;
   margin: 0 0 0 10vh;
 }
+
 #sml-catagory {
   width: 70%;
   height: 125vh;
@@ -125,16 +130,19 @@
   display: flex;
   /* Create two equal columns that sits next to each other */
 }
+
 #catagory-section .row {
   display: flex;
   flex-wrap: wrap;
   padding: 0 4px;
   margin: 15px 0 0 0;
 }
+
 #catagory-section .column {
   flex: 50%;
   padding: 0 4px;
 }
+
 #catagory-section .column-content {
   max-width: 340px;
   text-align: left;
@@ -145,6 +153,7 @@
   width: 100%;
   height: auto;
 }
+
 .container #content-wrapper {
   width: 100%;
   height: auto;
@@ -153,6 +162,7 @@
   position: relative;
   transform: translate(0, -320px);
 }
+
 .container #content-wrapper .white-board {
   min-width: 700px;
   height: auto;
@@ -163,18 +173,21 @@
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   display: flex;
 }
+
 .container #content-wrapper .white-board .content-box {
   height: 320px;
   width: auto;
   display: flex;
   flex-direction: column;
 }
+
 .container #content-wrapper .white-board .content-row {
   display: flex;
   flex-direction: row;
   padding: 0px 0px;
   height: 170px;
 }
+
 .container #content-wrapper .white-board .info {
   height: 220px;
   flex-direction: column;
@@ -192,6 +205,7 @@
   transform: translate(0, -300px);
   padding: 0px 20%;
 }
+
 #page-wrapper .white-board {
   width: 100%;
   display: flex;
@@ -201,20 +215,26 @@
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   padding: 3% 9.5%;
 }
+
 #page-wrapper .content-box {
   margin: 30px 0 40px 0;
 }
+
 #page-wrapper #fall-of-rome {
   height: 200vh;
 }
+
 #page-wrapper #rome-content-wrapper {
   height: 450vh;
 }
+
 #page-wrapper #assassinated {
   height: 90vh;
 }
+
 #page-wrapper .content-info {
-  height: 100px;
+  h
+  eight: 100px;
 }
 #page-wrapper .column-box {
   position: relative;
