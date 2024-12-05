@@ -5,8 +5,8 @@ A history site about the forgotten past
 https://crashingwharph.github.io/History-Website/
 
 note: 
-1) access ' fall of rome ' -> home - period dropdown btn -> roman. 
-2) Julius death page ' home -> click 'read-more' button right of ' julius banner '. 
+1) view fall of Rome -> home - period dropdown btn -> roman. 
+2) view Julius death page ' home -> click 'read-more' button right of ' julius banner '. 
 
 # Project info
 html, css and Javascript
