@@ -4,7 +4,8 @@ A history site about the forgotten past
 # Click the link (below) to preview project
 https://crashingwharph.github.io/History-Website/
 
-note: 
+note:
+
 1) view fall of Rome page: 
     home -> click "period" dropdown btn -> click on Rome.
    
