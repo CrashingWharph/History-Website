@@ -1,7 +1,8 @@
 # History Site 
 A history site of the world
 
-# project preview
+# Click the link (below) to project preview
+https://crashingwharph.github.io/History-Website/
 
 # Project info
-html and css
+html, css and Javascript
