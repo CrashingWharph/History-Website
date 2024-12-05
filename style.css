@@ -975,6 +975,7 @@ a {
 .banner p {
   margin: 15px 0 20px 0;
   font-weight: 500;
+  font-size: 15px; 
 }
 
 * {
