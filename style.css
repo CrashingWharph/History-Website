@@ -563,7 +563,7 @@ a {
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .header-wrapper {
-  background-image: url("/images/home/old-black-background-grunge-texture-dark.jpg");
+  background-image: url("images/design/old-black-background-grunge-texture-dark.jpg");
   box-shadow: 2px 2px 6px 0px rgba(240, 229, 229, 0.3);
   background-position: 10%;
   background-size: 100%;
@@ -707,7 +707,7 @@ a {
 }
 
 .footer-container {
-  background-image: url("/images/home/old-black-background-grunge-texture-dark.jpg");
+  background-image: url("images/design/old-black-background-grunge-texture-dark.jpg");
   background-position: center;
 }
 
