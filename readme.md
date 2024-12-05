@@ -6,11 +6,11 @@ https://crashingwharph.github.io/History-Website/
 
 note:
 
-1) view fall of Rome page: 
-    home -> click "period" dropdown btn -> click on Rome.
+1) View fall of Rome page:
+    home -> click "period" dropdown button -> Rome.
    
-2) view Julius death page:  
-    home -> click 'read-more' button right of ' Julius Banner '. 
+3) View Julius death page:  
+    home -> click "read-more" button right of ' Julius Banner '. 
 
 # Project info
 html, css and Javascript
